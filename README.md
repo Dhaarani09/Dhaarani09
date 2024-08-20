@@ -1,4 +1,4 @@
-# Hello, I'm Dharani! 👋
+# Hello, I'm Dhaarani! 👋
 
 I'm an enthusiastic Engineering Graduate in Electronics and Communication with a passion for both core electronics and software development. My journey in technology has allowed me to gain a diverse skill set, ranging from hardware design to full-stack web development, and even mobile app development.
 
